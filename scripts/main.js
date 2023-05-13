@@ -247,7 +247,7 @@ $(document).ready(function() {
             })
         }
     }(jQuery),
-    $(".js-countdown").countdown(new Date(2015,4,15,24,0,0)),
+    $(".js-countdown").countdown(new Date(2023,4,21,24,0,0)),
     $(window).on("scroll", function() {
         var e = $(".header-top").height();
         $(window).scrollTop() > e ? ($(".menu").addClass("menu-fixed"),
