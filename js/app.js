@@ -49,6 +49,8 @@ particlesJS('particles-js',
           "opacity_min": 0.1,
           "sync": false
         }
+        // THIS IS WHERE IS STOPPED
+        // ========================
       },
       "size": {
         "value": 5,

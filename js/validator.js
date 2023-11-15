@@ -9,8 +9,8 @@
 +function ($) {
   'use strict';
 
-  // VALIDATOR CLASS DEFINITION
-  // ==========================
+  // THIS IS WHERE IS STOPPED
+  // ========================
 
   function getValue($el) {
     return $el.is('[type="checkbox"]') ? $el.prop('checked')                                     :
